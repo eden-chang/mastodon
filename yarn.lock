@@ -2692,6 +2692,7 @@ __metadata:
     core-js: "npm:^3.30.2"
     cross-env: "npm:^7.0.3"
     detect-passive-events: "npm:^2.0.3"
+    emoji-datasource: "npm:15.1.2"
     emoji-mart: "npm:emoji-mart-lazyload@latest"
     emojibase: "npm:^16.0.0"
     emojibase-data: "npm:^16.0.3"
@@ -5917,6 +5918,13 @@ __metadata:
   version: 1.5.159
   resolution: "electron-to-chromium@npm:1.5.159"
   checksum: 10c0/dc5b60a235ad04b1637b3b2af4914ac900c42813b02262a91a41d950223316f7b12de715697cf9c2d9f572f716f9422bf259ee65d86599cd2cc66e92c499ebd1
+  languageName: node
+  linkType: hard
+
+"emoji-datasource@npm:15.1.2":
+  version: 15.1.2
+  resolution: "emoji-datasource@npm:15.1.2"
+  checksum: 10c0/32d914ec1c3d1044200eb98bb867ec78d53d5b316bbe6a1780db5490016c82f77277fa2cace0ce0d76f155197265f1d9952c8c7c201ddc59ca4d6d0d8c6ca5b5
   languageName: node
   linkType: hard
 
