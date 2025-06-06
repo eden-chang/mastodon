@@ -1,7 +1,7 @@
 ---
 ko:
   about:
-    about_mastodon_html: '미래의 소셜 네트워크: 광고 없음, 기업 감시 없음, 윤리적 설계, 탈중앙화! 여러분만의 데이터를 Mastodon으로 보호하고 누리세요!'
+    about_mastodon_html: '크레페 한참(@longwhile) 커미션으로 제공되는 마스토돈 에디션'
     contact_missing: 미설정
     contact_unavailable: 없음
     hosted_on: "%{domain}에서 호스팅 되는 마스토돈"
@@ -1888,10 +1888,11 @@ ko:
     review_link: 이용 약관 검토하기
     title: "%{domain} 도메인의 이용 약관에 변경 있음"
   themes:
-    contrast: 마스토돈 (고대비)
-    default: 마스토돈 (어두움)
+    default: 트위터 (어두움)
+    bird-ui-light: 트위터 (밝음)
     mastodon-light: 마스토돈 (밝음)
-    system: 자동 (시스템 테마 사용)
+    mastodon-dark: 마스토돈 (어두움)
+    contrast: 마스토돈 (고대비)
   time:
     formats:
       default: "%Y-%m-%d %H:%M"
