@@ -1,7 +1,7 @@
 ---
 ko:
   about:
-    about_mastodon_html: '크레페 한참(@longwhile) 커미션으로 제공되는 마스토돈 에디션'
+    about_mastodon_html: '크레페 '한참(@longwhile)' 커미션으로 제공되는 마스토돈 에디션'
     contact_missing: 미설정
     contact_unavailable: 없음
     hosted_on: "%{domain}에서 호스팅 되는 마스토돈"
