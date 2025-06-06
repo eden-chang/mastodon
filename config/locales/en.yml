@@ -1931,10 +1931,11 @@ en:
     review_link: Review terms of service
     title: The terms of service of %{domain} are changing
   themes:
-    contrast: Mastodon (High contrast)
-    default: Mastodon (Dark)
+    default: Twitter (Dark)
+    bird-ui-light: Twitter (Light)
     mastodon-light: Mastodon (Light)
-    system: Automatic (use system theme)
+    mastodon-dark: Mastodon (Dark)
+    contrast: Mastodon (High contrast)
   time:
     formats:
       default: "%b %d, %Y, %H:%M"
